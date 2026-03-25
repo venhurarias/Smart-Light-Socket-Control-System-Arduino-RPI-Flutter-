@@ -218,4 +218,9 @@ It is suitable for:
 - smart home automation  
 - energy-saving systems  
 - IoT-based control projects  
-- embedded + mobile + AI integration  
+- embedded + mobile + AI integration
+
+## Images
+![pic1](images/pic1.jpg)
+![pic2](images/pic2.jpg)
+![pic3](images/pic3.jpg)
